@@ -4,4 +4,7 @@ var update = new Update({
 	module_name: "mm_expand"
 });
 
-update.run();
+// update.run_down();
+// update.run_down();
+// update.run_down();
+update.publish();
