@@ -30,6 +30,6 @@
     },
     "homepage": "https://github.com/qiuwenwu/mm_update#readme",
     "dependencies": {
-        "mm_expand": "^1.4.3"
+        "mm_expand": "^1.4.5"
     }
 }

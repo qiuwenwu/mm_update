@@ -7,4 +7,5 @@ var update = new Update({
 // update.run_down();
 // update.run_down();
 // update.run_down();
+// update.run();
 update.publish();
